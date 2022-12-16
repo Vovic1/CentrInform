@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EXPORT xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EMPLOYEE>
+    <DEPARTMENT>Бухгалтерия</DEPARTMENT>
+    <DATA>
+      <FIRSTNAME>Антонина</FIRSTNAME>
+      <MIDDLENAME>Валерьевна</MIDDLENAME>
+      <DATEBIRTH>18.08.1981</DATEBIRTH>
+      <LASTNAME>Петрова</LASTNAME>
+      <POSITION>Главный бухгалтер</POSITION>
+      <PHONE>79819878567</PHONE>
+      <EMAIL>petrova@goodcompany.com</EMAIL>
+    </DATA>
+  </EMPLOYEE>
+  <EMPLOYEE>
+    <DEPARTMENT>Отдел программной разработки</DEPARTMENT>
+    <DATA>
+      <FIRSTNAME>Евгений</FIRSTNAME>
+      <MIDDLENAME>Васильевич</MIDDLENAME>
+      <DATEBIRTH>10.01.1995</DATEBIRTH>
+      <LASTNAME>Иващенко</LASTNAME>
+      <POSITION>Инженер</POSITION>
+      <PHONE>79819870517</PHONE>
+      <EMAIL>ivashenko@goodcompany.com</EMAIL>
+    </DATA>
+  </EMPLOYEE>
+</EXPORT>
